@@ -28,7 +28,7 @@ This repository uses **GitHub Metrics** to automatically track and visualize our
 
 - [WEBSITE 🎮] : [https://fortem.gg](https://fortem.gg)
 - [DOCS 📚] : [https://docs.fortem.gg](https://docs.fortem.gg)
-- [HELP CENTER 💬] : [https://help.fortem.gg](https://help.fortem.gg)
+- [GITBOOK 📚] : [https://help.fortem.gg](https://help.fortem.gg)
 
 ## ForTem Social Media
 
